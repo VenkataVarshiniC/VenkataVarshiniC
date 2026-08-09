@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-VenkataVarshiniC-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataVarshiniC)
 [![Portfolio](https://img.shields.io/badge/Portfolio-varshini--dev-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varshini-dev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-venkatavarshinic@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatavarshinic@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Hyderabad,_India-green?style=for-the-badge)](https://github.com/VenkataVarshiniC)
+[![Location](https://img.shields.io/badge/📍-College_Park,_MD-green?style=for-the-badge)](https://github.com/VenkataVarshiniC)
 
 </div>
 
@@ -29,7 +29,7 @@ class VarshiniChilukamarri:
         self.university = "Robert H. Smith School of Business, University of Maryland"
         self.degree     = "MS Information Systems & Artificial Intelligence"
         self.grad_date  = "December 2026"
-        self.location   = "Hyderabad, India"
+        self.location   = "College Park, MD"
         self.portfolio  = "https://varshini-dev.vercel.app/"
 
     def current_focus(self):
@@ -106,6 +106,19 @@ class VarshiniChilukamarri:
 
 ---
 
+## 🧩 Skills
+
+**Business & Strategy**
+`Problem Structuring` `Hypothesis-Driven Analysis` `Business Case Development` `Requirements Gathering` `Stakeholder Management` `Process Mapping` `Competitive Research`
+
+**Finance & Analytics**
+`Financial Modeling (DCF, NPV, IRR)` `SQL` `Python` `Excel` `PowerPoint` `Tableau` `Power BI` `Predictive Modeling` `A/B Testing`
+
+**AI & Technology**
+`Generative AI` `Prompt Engineering` `Causal Inference` `SHAP` `PostgreSQL` `Git/GitHub` `Figma` `Agile`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,27 +133,12 @@ class VarshiniChilukamarri:
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VenkataVarshiniC/VenkataVarshiniC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VenkataVarshiniC/VenkataVarshiniC/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VenkataVarshiniC/VenkataVarshiniC/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-*(Requires the [snake action](https://github.com/Platane/snk) set up on this repo to render — see setup note at the bottom.)*
-
-</div>
-
----
-
 ## 🌍 Beyond the Code
 
 - 🥽 **XR Club Leadership** — University of Maryland
 - 🏆 **1st Place, XR Hackathon**
 - 📊 **Deloitte / Maryland DOT Case Competition** — Participant
+- 🌱 **Open Source Contributor** — [Rewriting the Code](https://github.com/rewriting-the-code)
 - 💡 Currently exploring: **causal inference**, **decision science**, and **LLM-grounded strategy tooling**
 
 ---
