@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkata%20Varshini%20Chilukamarri&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%2B%20Business%20Strategy%20%7C%20MS%20Info%20Systems%20and%20AI%20%40%20Smith%20School%20of%20Business&descAlignY=58&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkata%20Varshini%20Chilukamarri&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Business%20Strategy%20%7C%20MS%20Info%20Systems%20and%20AI%20%40%20Smith%20School%20of%20Business&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions.;Causal+Inference+%7C+Financial+Modeling+%7C+Applied+ML;MS+Information+Systems+and+AI+%40+Univ.+of+Maryland;Building+consulting-grade+analytics+platforms." alt="Typing SVG" /></a>
