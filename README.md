@@ -70,6 +70,19 @@ class VarshiniChilukamarri:
 
 ---
 
+## 🧩 Skills
+
+**Business & Strategy**
+`Problem Structuring` `Hypothesis-Driven Analysis` `Business Case Development` `Requirements Gathering` `Stakeholder Management` `Process Mapping` `Competitive Research`
+
+**Finance & Analytics**
+`Financial Modeling (DCF, NPV, IRR)` `SQL` `Python` `Excel` `PowerPoint` `Tableau` `Power BI` `Predictive Modeling` `A/B Testing`
+
+**AI & Technology**
+`Generative AI` `Prompt Engineering` `Causal Inference` `SHAP` `PostgreSQL` `Git/GitHub` `Figma` `Agile`
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -106,28 +119,15 @@ class VarshiniChilukamarri:
 
 ---
 
-## 🧩 Skills
-
-**Business & Strategy**
-`Problem Structuring` `Hypothesis-Driven Analysis` `Business Case Development` `Requirements Gathering` `Stakeholder Management` `Process Mapping` `Competitive Research`
-
-**Finance & Analytics**
-`Financial Modeling (DCF, NPV, IRR)` `SQL` `Python` `Excel` `PowerPoint` `Tableau` `Power BI` `Predictive Modeling` `A/B Testing`
-
-**AI & Technology**
-`Generative AI` `Prompt Engineering` `Causal Inference` `SHAP` `PostgreSQL` `Git/GitHub` `Figma` `Agile`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenkataVarshiniC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0EEFF"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=VenkataVarshiniC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0EEFF"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataVarshiniC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F0EEFF"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VenkataVarshiniC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F0EEFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataVarshiniC&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=VenkataVarshiniC&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 
 </div>
 
