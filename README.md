@@ -70,6 +70,10 @@ I turn ambiguous business questions into structured analyses, decision-ready rec
 
 A modular decision workspace that connects problem framing, financial modeling, multi-criteria decision analysis, evidence research, recommendation synthesis, and executive-ready outputs. The product is designed around one principle: every recommendation should trace back to a number, weight, assumption, or cited source.
 
+### [PULSE — Ecosystem Release Forensics](https://github.com/VenkataVarshiniC/pulse-ecosystem-release-forensics)
+
+An evidence-first product for reconstructing how a software release affects downstream repositories—from adoption and migration friction through remediation and recovery. PULSE uses declarative cases, deterministic collection plans, immutable evidence snapshots, and explicit human review so uncertain findings remain visible instead of being promoted automatically.
+
 ---
 
 ## How I approach a problem
