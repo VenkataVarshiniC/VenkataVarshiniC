@@ -1,173 +1,107 @@
-<div align="center">
+# Venkata Varshini Chilukamarri
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkata%20Varshini%20Chilukamarri&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Business%20Strategy%20%7C%20MS%20Info%20Systems%20and%20AI%20%40%20Smith%20School%20of%20Business&descAlignY=58&descSize=14&animation=fadeIn" />
+### Business Analyst · Product Analyst · Product Management
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions.;Causal+Inference+%7C+Financial+Modeling+%7C+Applied+ML;MS+Information+Systems+and+AI+%40+Univ.+of+Maryland;Building+consulting-grade+analytics+platforms." alt="Typing SVG" /></a>
+I turn ambiguous business questions into structured analyses, decision-ready recommendations, and usable products. My work combines business strategy, product thinking, financial modeling, experimentation, and applied analytics—with a focus on making every recommendation traceable to evidence.
 
-<br/>
+**MS, Information Systems & Artificial Intelligence** — Robert H. Smith School of Business, University of Maryland  
+**Graduating:** December 2026 · **Based in:** College Park, Maryland
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-varshini-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-varshini-chilukamarri-62b1782b7/)
-[![GitHub](https://img.shields.io/badge/GitHub-VenkataVarshiniC-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataVarshiniC)
-[![Portfolio](https://img.shields.io/badge/Portfolio-varshini--dev-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varshini-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-venkatavarshinic@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatavarshinic@gmail.com)
-[![Location](https://img.shields.io/badge/📍-College_Park,_MD-green?style=for-the-badge)](https://github.com/VenkataVarshiniC)
-
-</div>
+[Portfolio](https://varshini-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/venkata-varshini-chilukamarri-62b1782b7/) · [Email](mailto:venkatavarshinic@gmail.com)
 
 ---
 
-## 🧠 About Me
+## What I bring
 
-```python
-class VarshiniChilukamarri:
-    def __init__(self):
-        self.name       = "Venkata Varshini Chilukamarri"
-        self.role       = "AI/ML x Business Strategy | Aspiring Business Analyst"
-        self.university = "Robert H. Smith School of Business, University of Maryland"
-        self.degree     = "MS Information Systems & Artificial Intelligence"
-        self.grad_date  = "December 2026"
-        self.location   = "College Park, MD"
-        self.portfolio  = "https://varshini-dev.vercel.app/"
-
-    def current_focus(self):
-        return [
-            "📊 Financial modeling, causal inference & decision intelligence",
-            "🤖 Applied ML with explainability (SHAP) for business decisions",
-            "🧩 Full-stack analytics platforms (FastAPI + React)",
-            "🎯 Recruiting for Business Analyst / Strategy Consulting roles"
-        ]
-
-    def seeking(self):
-        return "Business Analyst or Strategy Consulting role @ a top-tier firm"
-```
+- **Business analysis:** frame problems, translate stakeholder needs into requirements, map processes, and build decision-ready business cases.
+- **Product analysis:** define KPIs, evaluate trade-offs, segment users, test assumptions, and connect findings to roadmap decisions.
+- **Decision science:** combine financial models, causal inference, experimentation, predictive modeling, and scenario analysis.
+- **Clear communication:** convert technical work into executive summaries, dashboards, documented assumptions, and actionable recommendations.
 
 ---
 
-## 🚀 Featured Projects
+## Featured case studies
 
-<div align="center">
+### [LedgerGuard — BNPL Risk & Profitability Decision Platform](https://github.com/VenkataVarshiniC/BNPL-project)
 
-| 📈 **The AI Adoption Paradox** | 🧭 **SDIE** |
-|---|---|
-| **Why Enterprise AI Investments Fail to Deliver ROI** | **Strategic Decision Intelligence Engine** |
-| Research-grade ML platform examining organizational capabilities, AI readiness, governance & change management. 27-feature pipeline, 6-model competition, RandomForest champion, SHAP explainability, DoWhy causal inference. | Six-module full-stack decision platform: financial modeling, MCDA, Monte Carlo simulation, Bayesian updating, causal inference, and LLM-generated recommendation narratives with PDF export. Every recommendation traces to a number, weight, or cited source. |
-| `Python` `scikit-learn` `SHAP` `DoWhy` `FastAPI` `PostgreSQL` | `FastAPI` `React` `Monte Carlo` `Bayesian Methods` `Groq LLM` |
-| 🎯 R² = 0.886 &nbsp;·&nbsp; 🔍 SHAP + causal inference | 🧪 12/12 sensitivity scenarios &nbsp;·&nbsp; ✅ 132 backend tests |
-| [![](https://img.shields.io/badge/GitHub-AI--Paradox-181717?style=flat-square&logo=github)](https://github.com/VenkataVarshiniC/AI-Paradox) | [![](https://img.shields.io/badge/GitHub-SDIE-181717?style=flat-square&logo=github)](https://github.com/VenkataVarshiniC/SDIE) |
+**Business question:** How can a BNPL lender improve profitability without sacrificing an unacceptable amount of approval volume?
 
-| 💳 **BNPL Analytics Platform** | 🧠 **AIStrategy Copilot** |
-|---|---|
-| **Risk-Adjusted Profitability for Buy Now Pay Later** | **RAG-Powered Strategy Analyst** |
-| Answers the question a real BNPL lender (Klarna, Affirm) would ask: where do we make money, and where do we lose it? Gradient-boosted ML with SHAP explainability across six core endpoints. | Given a business question (e.g. market entry), ingests financial, market & competitor data, builds a MECE issue tree, runs quantitative analysis, retrieves evidence via RAG, and outputs an answer-first executive summary. |
-| `FastAPI` `Gradient Boosting` `SHAP` `Python` | `RAG` `LLM APIs` `Issue Trees` `Python` |
-| 📊 5,000 synthetic customers &nbsp;·&nbsp; 💰 40,000+ transactions | 📑 Answer-first exec summaries &nbsp;·&nbsp; 🔎 MECE issue trees |
-| [![](https://img.shields.io/badge/GitHub-BNPL--project-181717?style=flat-square&logo=github)](https://github.com/VenkataVarshiniC/BNPL-project) | [![](https://img.shields.io/badge/GitHub-AIStrategy--Copilot-181717?style=flat-square&logo=github)](https://github.com/VenkataVarshiniC/AIStrategy-Copilot) |
+- Built a decision-support product around **5,000 synthetic customers and 42,000 transactions**.
+- Identified that four merchant categories generated **90.2% of category losses**, with Travel alone accounting for **41.5%**.
+- Compared underwriting strategies and surfaced the commercial constraint: the configured 75% approval-volume floor remained unprofitable.
+- Recommended a break-even policy projected to move the modeled portfolio from a **$141,629 loss to a $7,588 profit**, a **$149,217 improvement**, while clearly reporting the 10.75 percentage-point approval trade-off.
+- Documented assumptions, limitations, risk controls, UAT criteria, product backlog, and sensitivity analysis.
 
-</div>
+`Product Analytics` · `Profitability Modeling` · `Scenario Analysis` · `SHAP` · `FastAPI` · `Python`
 
----
+> All LedgerGuard figures are projections from synthetic data, not realized lending outcomes.
 
-## 🧩 Skills
+### [The AI Adoption Paradox — Enterprise AI ROI Analysis](https://github.com/VenkataVarshiniC/AI-Paradox)
 
-**Business & Strategy**
-`Problem Structuring` `Hypothesis-Driven Analysis` `Business Case Development` `Requirements Gathering` `Stakeholder Management` `Process Mapping` `Competitive Research`
+**Business question:** Why do large AI investments fail to translate into measurable enterprise value?
 
-**Finance & Analytics**
-`Financial Modeling (DCF, NPV, IRR)` `SQL` `Python` `Excel` `PowerPoint` `Tableau` `Power BI` `Predictive Modeling` `A/B Testing`
+- Designed an end-to-end analytics platform using a synthetic panel of **1,500 companies across 12 industries and three years**.
+- Tested six models and achieved **0.886 test R²** with the selected model.
+- Found that process redesign and executive alignment together explained roughly **58% of modeled ROI variance**, while investment size explained less than 1%.
+- Added SHAP explanations and causal analysis so recommendations could be inspected rather than treated as black-box outputs.
+- Translated findings into capability tiers, scenario tools, and an executive-facing decision interface.
 
-**AI & Technology**
-`Generative AI` `Prompt Engineering` `Causal Inference` `SHAP` `PostgreSQL` `Git/GitHub` `Figma` `Agile`
+`Business Strategy` · `Causal Inference` · `Predictive Analytics` · `SHAP` · `React` · `FastAPI`
 
----
+> Findings are based on a synthetic research dataset and should be interpreted as a decision-framework demonstration, not a population estimate.
 
-## 🛠️ Tech Stack
+### [The Trust Gap — Human–AI Decision Risk](https://github.com/VenkataVarshiniC/AI-Human-trust)
 
-<div align="center">
+**Business question:** What causes people to trust AI outputs, and where does miscalibrated trust create product and governance risk?
 
-**Languages**
+- Analyzed **1,000 human–AI interactions** using regression, classification, clustering, SHAP, causal estimation, and Monte Carlo simulation.
+- Found that stated confidence predicted trust more strongly than actual accuracy; **34% of modeled interactions were over-trusted**.
+- Identified source citation as the strongest modeled driver of over-trust and tested the effect across multiple estimators, refutations, and threshold definitions.
+- Converted results into behavioral personas, an Expected Harm Index, and governance priorities for high-stakes use cases.
+- Reported statistical power and limitations to distinguish evidence from overclaiming.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML & Analytics**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-**Full-Stack & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Databases & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+`Product Risk` · `User Behavior` · `Causal Analysis` · `Experimentation` · `Responsible AI`
 
 ---
 
-## 📊 GitHub Stats
+## Currently building
 
-<div align="center">
+### [SDIE — Strategic Decision Intelligence Engine](https://github.com/VenkataVarshiniC/SDIE)
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=VenkataVarshiniC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0EEFF"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VenkataVarshiniC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F0EEFF"/>
-
-<img src="https://streak-stats.demolab.com?user=VenkataVarshiniC&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-
-</div>
+A modular decision workspace that connects problem framing, financial modeling, multi-criteria decision analysis, evidence research, recommendation synthesis, and executive-ready outputs. The product is designed around one principle: every recommendation should trace back to a number, weight, assumption, or cited source.
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## How I approach a problem
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VenkataVarshiniC/VenkataVarshiniC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VenkataVarshiniC/VenkataVarshiniC/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VenkataVarshiniC/VenkataVarshiniC/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
+1. **Frame the decision** — identify the user, objective, constraints, and success criteria.
+2. **Structure the analysis** — break the problem into testable questions and define the required evidence.
+3. **Evaluate trade-offs** — quantify scenarios, risks, sensitivities, and opportunity costs.
+4. **Recommend an action** — communicate what should happen, why, and under which assumptions.
+5. **Make it usable** — package the work as a dashboard, decision tool, documented workflow, or executive narrative.
 
 ---
 
-## 🌍 Beyond the Code
+## Skills
 
-- 🥽 **XR Club Leadership** — University of Maryland
-- 🏆 **1st Place, XR Hackathon**
-- 📊 **Deloitte / Maryland DOT Case Competition** — Participant
-- 🌱 **Open Source Contributor** — [Rewriting the Code](https://github.com/rewriting-the-code)
-- 💡 Currently exploring: **causal inference**, **decision science**, and **LLM-grounded strategy tooling**
+**Business & product:** Requirements gathering, stakeholder analysis, process mapping, KPI design, business cases, roadmap prioritization, competitive research, Agile delivery  
+**Analytics:** SQL, Python, Excel, Tableau, Power BI, financial modeling, A/B testing, causal inference, predictive modeling, sensitivity analysis  
+**Technical:** PostgreSQL, FastAPI, React, TypeScript, scikit-learn, SHAP, Git/GitHub, Docker, Figma
 
 ---
 
-<div align="center">
+## Education & leadership
 
-### 💬 Let's Build Something Intelligent Together
+- **MS, Information Systems & Artificial Intelligence**, University of Maryland — expected December 2026
+- XR Club leadership, University of Maryland
+- First place, XR Hackathon
+- Participant, Deloitte / Maryland Department of Transportation Case Competition
 
-*Open to Business Analyst and Strategy Consulting opportunities — let's connect!*
+---
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-varshini-chilukamarri-62b1782b7/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varshini-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Send_an_Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatavarshinic@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataVarshiniC)
+## Let’s connect
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+I am exploring **Business Analyst, Product Analyst, and Product Management** opportunities where structured problem-solving, analytical depth, and clear product decisions matter.
 
-</div>
+[View my portfolio](https://varshini-dev.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/venkata-varshini-chilukamarri-62b1782b7/) · [Email me](mailto:venkatavarshinic@gmail.com)
+
